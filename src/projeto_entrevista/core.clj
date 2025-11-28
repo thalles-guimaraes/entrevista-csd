@@ -57,5 +57,5 @@
   (route/not-found "404 - Página não encontrada"))
 
 (defn -main []
-  (run-jetty app {:port (Integer/parseInt (or (System/getenv "PORT") "3000"))
+  (run-jetty app {:port (Integer/parseInt (or (System/getenv "PORT") "8080"))
                   :join? false}))
