@@ -49,7 +49,8 @@
         <body>
           <div class='container'>
             <h1>Olá, CSD BR! 👋</h1>
-            <p>Feito em <strong>Clojure</strong> porque meu código também gosta de ser funcional - assim como eu na CSD BR 😉</p>
+            <p>Feito em <strong>Clojure</strong> porque meu código também gosta de ser funcional - assim como eu na CSD BR XD</p>
+            <p>Acesse o github com o código desse site clicando <a href='https://github.com/thalles-guimaraes/entrevista-csd/'>AQUI</a></p>
             <div class='footer'>Desenvolvido especialmente para esta entrevista.</div>
           </div>
         </body>

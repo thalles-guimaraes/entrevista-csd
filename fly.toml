@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for projeto-entrevista on 2025-11-28T02:32:35-03:00
+# fly.toml app configuration file generated for projeto-entrevista-icy-lake-7479 on 2025-11-28T02:36:00-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'projeto-entrevista'
+app = 'projeto-entrevista-icy-lake-7479'
 primary_region = 'gru'
 
 [build]
